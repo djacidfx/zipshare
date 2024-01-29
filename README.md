@@ -116,15 +116,3 @@ Requirements
     Required PHP version in server >= 5.4
     allow fopen strongly recommended on your server
     .htaccess will work properly on your server (Strongly recommended)
-
-Instructions
-
-You can setup the website in 1 minute . Rich documentation is included inside purchased file.
-
-User Link : User Link
-
-Admin Link : Admin Link
-
-Note : Demo mode is read mode only. You cannot do anything except download the zip file. But you can check every option with false message to understand the work flow of the script.
-
-Many thanks
